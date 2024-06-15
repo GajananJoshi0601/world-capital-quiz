@@ -42,7 +42,7 @@
 <p align="center">
     <img src="/SS/ss-2.jpg" alt="Playlist Page" width="400">
     <br>
-    <em>Playlist Page</em>
+    <em>Capital Entered Page</em>
 </p>
 
 <h2>Contributing</h2>
