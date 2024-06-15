@@ -24,9 +24,11 @@
     <li>Navigate to the project directory:</li>
 </ol>
 <pre><code>cd World-Capital-Quiz</code></pre>
-<ol start="3">
-    <li>Open the <code>index.html</code> file in your web browser to start the quiz.</li>
-</ol>
+    <li>Install the Required Packages : </li>
+    <pre><code>npm i </code></pre>
+    <pre><code>npm install express ejs body-parser pg</code></pre>
+    <li>Final Step Install nodemon : </li>
+    <pre><code>nodemon index.js</code></pre>
 
 <h2 id="overview">Quick Overview of the UI</h2>
 <p>Here are some screenshots showcasing the main features of our Spotify Clone:</p>
